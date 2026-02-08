@@ -7,7 +7,7 @@
     {
         public const string GUID = "com.bunnyzxxx.gorillatag.TMIFY";
         public const string Name = "TMIFY";
-        public const string Version = "2.6.7";
+        public const string Version = "3.6.7";
 
         public const string ClientResourcePath = "LibrePad.Resources";
     }
