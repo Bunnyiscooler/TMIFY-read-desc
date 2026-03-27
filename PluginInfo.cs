@@ -8,6 +8,7 @@
         public const string GUID = "com.Bunnyzxxx.TMIFY";
         public const string Name = "TMIFY";
         public const string Version = "0.6.7";
+
         public const string ClientResourcePath = "LibrePad.Resources";
     }
 }
